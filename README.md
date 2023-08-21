@@ -1,4 +1,3 @@
-My first readme has been updated!
-Twice
-Third time, lets go!
+My first readme has been updated xD!
+
 
